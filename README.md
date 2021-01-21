@@ -1,2 +1,2 @@
 # tweet-sentiment-analysis
-Computing the sentiment using Transformers like BERT, DistilBERT
+Computed the sentiment of tweets using Transformers like BERT, DistilBERT
